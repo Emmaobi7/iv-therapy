@@ -1,6 +1,7 @@
 {
   "name": "iv-ui",
   "private": true,
+  "proxy": "https://iv-therapy.onrender.com",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
