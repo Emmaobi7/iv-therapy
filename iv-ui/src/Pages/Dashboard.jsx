@@ -175,7 +175,7 @@ const AdminDashboard = () => {
           >
             <option value="">All Statuses</option>
             <option value="pending">Pending</option>
-            <option value="completed">Completed</option>
+            <option value="Completed">Completed</option>
           </Form.Select>
 
           <InputGroup>
