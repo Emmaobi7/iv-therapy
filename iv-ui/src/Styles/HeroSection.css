@@ -1,0 +1,72 @@
+/* Hero Section Styling */
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4rem 2rem;
+    background-color: #f7efce; 
+  }
+  
+  .hero-left {
+    flex: 1;
+    padding: 2rem;
+    background-color: beige;
+    border-radius: 8px;
+  }
+  
+  .hero-left h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #2c3e50;
+    margin-bottom: 1rem;
+  }
+  
+  .hero-left p {
+    font-size: 1.1rem;
+    color: #7f8c8d;
+    margin-bottom: 1.5rem;
+  }
+  
+  .cta-button {
+    background-color: #3498db;
+    color: white;
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #2980b9;
+  }
+  
+  .hero-right {
+    flex: 1;
+    padding: 2rem;
+  }
+  
+  .hero-right img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+  
+  @media (max-width: 768px) {
+    .hero-section {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .hero-left,
+    .hero-right {
+      flex: 1;
+      margin-bottom: 2rem;
+    }
+  
+    .cta-button {
+      margin-top: 1rem;
+    }
+  }
+  
