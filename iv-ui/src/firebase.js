@@ -4,7 +4,7 @@ import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBUQ8MRzJXyN6MF2jbN2OjTTY5_uRai6SU",
+  apiKey: import.meta.env.VITE_FIREBASE_KEY,
   authDomain: "foodie-fetch.firebaseapp.com",
   projectId: "foodie-fetch",
   storageBucket: "foodie-fetch.firebasestorage.app",
