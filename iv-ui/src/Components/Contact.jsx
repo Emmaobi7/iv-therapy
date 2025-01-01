@@ -43,7 +43,7 @@ const MessageForm = () => {
 
   return (
     <div className="container mt-4">
-      <h2 className="mb-4">Send a Message</h2>
+      <h2 className="mb-4 sec-heading">Send a Message</h2>
       {success && <Alert variant="success">Message sent successfully!</Alert>}
       {error && <Alert variant="danger">{error}</Alert>}
       <Form onSubmit={handleSubmit}>
@@ -97,7 +97,7 @@ const MessageForm = () => {
         </Form.Group>
 
         <Button variant="" className="custom-button" type="submit" disabled={loading}>
-          {loading ? <Spinner as="span" animation="border" size="sm" /> : "Send"}
+          {loading ? <Spinner as="span" animation="border" size="sm" /> : "Message Us"}
         </Button>
       </Form>
     </div>
