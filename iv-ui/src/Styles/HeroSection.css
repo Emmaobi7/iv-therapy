@@ -87,6 +87,7 @@
     .hero-section {
       flex-direction: column;
       text-align: left;
+      padding: 4rem 0rem;
     }
   
     .hero-left,
