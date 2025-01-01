@@ -1,5 +1,6 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
+import { Link } from "react-router-dom";
 
 const HomeContent = () => {
   return (
@@ -74,7 +75,10 @@ const HomeContent = () => {
       <div className="text-center mt-5">
         <h2>Ready to Rejuvenate?</h2>
         <p>No waiting—choose your slot today and feel better instantly!</p>
-        <button className="btn btn-lg custom-button">Book Your Session Now</button>
+        
+        <Link to="/book" className="text-decoration-none">
+          <button className="btn btn-lg custom-button">Book Your Session Now</button>
+        </Link>
       </div>
     </div>
   );
