@@ -97,7 +97,7 @@ const BookingPage = () => {
     <Container>
       <Row className="my-4">
         <Col>
-          <h1 className="text-center">Book Now</h1>
+          <h1 className="text-center sec-heading">Book Now</h1>
         </Col>
       </Row>
 
