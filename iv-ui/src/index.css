@@ -112,7 +112,7 @@ button:focus-visible {
   background-color: #ffc1cc !important; /* Your primary color */
   color: black !important; /* Button text color */
   border: none !important;
-  border-radius: 5px; /* Optional for rounded corners */
+  border-radius: 40px; /* Optional for rounded corners */
   padding: 10px 20px;
   transition: background-color 0.3s ease;
 }
@@ -131,6 +131,20 @@ button:focus-visible {
 /*services section*/
 .service {
   background-color: #cce6d9 ;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.s-card {
+  border: none;
+  background-color: #cce6d9 ;
+}
+
+
+/*offers cards*/
+.no-border {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
 
@@ -145,3 +159,15 @@ button:focus-visible {
 .text-light {
   color: black !important;
 }
+
+
+
+
+.s-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+
+
+

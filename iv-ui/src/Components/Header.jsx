@@ -12,7 +12,7 @@ const Header = () => {
         <img 
       src={logo}
       alt="Beauty, wellness and iv therapy store" 
-      style={{ width: "200px", height: "auto" }} // Adjust dimensions
+      style={{ width: "200px", height: "auto" }}
     />
         </Navbar.Brand>
 

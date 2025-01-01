@@ -116,7 +116,7 @@ const BookingPage = () => {
           <Row>
             {filteredServices.map((service) => (
               <Col key={service.id} sm={12} md={6} lg={4} className="mb-3">
-                <div className="p-3 border rounded">
+                <div className="p-3 border no-border rounded">
                   <h5>{service.name}</h5>
                   <p>Price: £{service.price}</p>
                   <Button
@@ -134,7 +134,7 @@ const BookingPage = () => {
 
         <Col md={4}>
           <h2>Cart</h2>
-          <div className="p-3 border rounded">
+          <div className="p-3 border no-border rounded">
             {cart.length === 0 ? (
               <p>Your cart is empty.</p>
             ) : (

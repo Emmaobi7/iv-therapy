@@ -31,7 +31,7 @@ const HomeContent = () => {
       </div>
       <div className="row">
         <div className="col-md-4 mb-4">
-          <div className="card h-100 shadow-sm">
+          <div className="card h-100 shadow-sm s-card">
             <img
               src="https://infuselife.com/wp-content/uploads/2023/01/energy-boost.png"
               className="card-img-top"
@@ -44,7 +44,7 @@ const HomeContent = () => {
           </div>
         </div>
         <div className="col-md-4 mb-4">
-          <div className="card h-100 shadow-sm">
+          <div className="card h-100 shadow-sm s-card">
             <img
               src="https://infuselife.com/wp-content/uploads/2023/02/immune-boost.png"
               className="card-img-top"
@@ -57,7 +57,7 @@ const HomeContent = () => {
           </div>
         </div>
         <div className="col-md-4 mb-4">
-          <div className="card h-100 shadow-sm">
+          <div className="card h-100 shadow-sm s-card">
             <img
               src="https://infuselife.com/wp-content/uploads/2023/02/beauty-glow.png"
               className="card-img-top"
