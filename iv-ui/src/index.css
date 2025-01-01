@@ -118,26 +118,26 @@ button:focus-visible {
 }
 
 .custom-button:hover {
-  background-color: #e6a9b3 !important; /* Slightly darker pink for hover */
+  background-color: #ffccdb !important; /* Slightly darker pink for hover */
 }
 
 
 /*header */
 .header {
-  background-color: wheat;
+  background-color: #ccffe5;
 }
 
 
 /*services section*/
 .service {
-  background-color: wheat;
+  background-color: #cce6d9 ;
 }
 
 
 /*footer*/
 
 .footer {
-  background-color: wheat !important;
+  background-color: #cce6d9 !important;
   color: black;
 }
 

@@ -10,7 +10,7 @@ const HeroSection = () => {
         <a href="/book" className="cta-button custom-button">Book Your Session</a>
       </div>
       <div className="hero-right">
-        <img src="https://www.khromdermatology.com/wp-content/uploads/2023/07/intravenous-therapy-wide-2.jpg" alt="IV Therapy" />
+        {/* <img src="https://www.khromdermatology.com/wp-content/uploads/2023/07/intravenous-therapy-wide-2.jpg" alt="IV Therapy" /> */}
       </div>
     </section>
   );
