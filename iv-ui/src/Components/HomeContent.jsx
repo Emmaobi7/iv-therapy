@@ -26,7 +26,7 @@ const HomeContent = () => {
 
       {/* Section 2: Services Overview */}
       <div className="text-center mb-5">
-        <h2>Our Services</h2>
+        <h2 className="sec-heading ">Our Services</h2>
         <p>Explore our range of IV therapy treatments tailored to your needs.</p>
       </div>
       <div className="row">

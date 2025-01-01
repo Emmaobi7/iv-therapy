@@ -3,7 +3,7 @@ import React from "react";
 const FAQSection = () => {
   return (
     <section className="container py-5">
-      <h2 className="text-center mb-4">Frequently Asked Questions</h2>
+      <h2 className="text-center mb-4 sec-heading ">Frequently Asked Questions</h2>
       <div className="accordion" id="faqAccordion">
         {/* Question 1 */}
         <div className="accordion-item service">
