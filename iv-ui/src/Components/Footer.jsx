@@ -39,7 +39,7 @@ const Footer = () => {
         </div>
         {/* Copyright */}
         <div className="text-center py-3">
-          <p className="m-0">&copy; 2024 Adhore Beauty. All Rights Reserved.</p>
+          <p className="m-0">&copy; 2025 Adhore Beauty. All Rights Reserved.</p>
         </div>
       </div>
     </footer>
