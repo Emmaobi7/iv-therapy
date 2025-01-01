@@ -130,7 +130,7 @@ button:focus-visible {
 
 /*section heading text styling */
 .sec-heading {
-  color: wheat;
+  color: aliceblue;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
   font-weight: bold;
 }
