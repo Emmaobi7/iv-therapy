@@ -8,7 +8,7 @@ const HomeContent = () => {
       {/* Section 1: Key Benefits */}
       <div className="row align-items-center mb-5 service">
         <div className="col-md-6">
-          <h2>Why Choose IV Wellness?</h2>
+          <h2 className="center-mobile">Why Choose IV Wellness?</h2>
           <ul className="list-unstyled">
             <li><i className="bi bi-check-circle-fill text-primary"></i> Boost your energy levels in just one session.</li>
             <li><i className="bi bi-check-circle-fill text-primary"></i> Professional and personalized IV treatments.</li>

@@ -6,7 +6,7 @@ const FAQSection = () => {
       <h2 className="text-center mb-4 sec-heading ">Frequently Asked Questions</h2>
       <div className="accordion" id="faqAccordion">
         {/* Question 1 */}
-        <div className="accordion-item service">
+        <div className="accordion-item service-faq">
           <h2 className="accordion-header" id="headingOne">
             <button
               className="accordion-button"
@@ -32,7 +32,7 @@ const FAQSection = () => {
         </div>
 
         {/* Question 2 */}
-        <div className="accordion-item service">
+        <div className="accordion-item service-faq">
           <h2 className="accordion-header" id="headingTwo">
             <button
               className="accordion-button collapsed"
@@ -58,7 +58,7 @@ const FAQSection = () => {
         </div>
 
         {/* Question 3 */}
-        <div className="accordion-item service">
+        <div className="accordion-item service-faq">
           <h2 className="accordion-header" id="headingThree">
             <button
               className="accordion-button collapsed"

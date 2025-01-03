@@ -124,14 +124,14 @@ button:focus-visible {
 
 /*header */
 .header {
-  background-color: #ccffe5;
+  background-color: #cce6d9;
 }
 
 
 /*section heading text styling */
 .sec-heading {
-  color: aliceblue;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  color: #ffc1cc;
+  text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
   font-weight: bold;
 }
 
@@ -145,7 +145,23 @@ button:focus-visible {
 
 .s-card {
   border: none;
-  background-color: #cce6d9 ;
+  background-color: #ffe5ea ;
+}
+
+
+/* FAQ*/
+
+.accordion-button:not(.collapsed) {
+ 
+  background-color: #cce6d9 !important;
+ 
+}
+
+.service-faq {
+  background-color: white ;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
 
@@ -175,6 +191,14 @@ button:focus-visible {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
+
+
+@media (max-width: 768px) {
+  .center-mobile {
+    text-align: center;
+    padding: 10px;
+  }
+}
 
 
 
