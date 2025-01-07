@@ -33,7 +33,7 @@ const Footer = () => {
             <div>
               <a href="#" className="text-light me-3"><i className="bi bi-facebook"></i></a>
               <a href="#" className="text-light me-3"><i className="bi bi-twitter"></i></a>
-              <a href="#" className="text-light me-3"><i className="bi bi-instagram"></i></a>
+              <a href="https://www.instagram.com/adhorebeauty" className="text-light me-3"><i className="bi bi-instagram"></i></a>
             </div>
           </div>
         </div>
