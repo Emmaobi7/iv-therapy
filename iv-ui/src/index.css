@@ -72,7 +72,6 @@ button:focus-visible {
 
 
 
-
 /* Custom Header Styling */
 .navbar {
   font-family: 'Poppins', sans-serif;
@@ -94,13 +93,13 @@ button:focus-visible {
 }
 
 .btn-primary {
-  background: linear-gradient(45deg, #007bff, #0056b3);
+  background-color: #ffc1cc !important;;
   border: none;
   transition: background 0.3s;
 }
 
 .btn-primary:hover {
-  background: linear-gradient(45deg, #0056b3, #003f8a);
+  background-color: #ffccdb !important;;
 }
 
 
@@ -146,6 +145,7 @@ button:focus-visible {
 .s-card {
   border: none;
   background-color: #ffe5ea ;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
 }
 
 

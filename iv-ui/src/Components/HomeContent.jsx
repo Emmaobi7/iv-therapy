@@ -31,43 +31,99 @@ const HomeContent = () => {
       </div>
       <div className="row">
         <div className="col-md-4 mb-4">
-          <div className="card h-100 shadow-sm s-card">
+        <Link to="/energy-booster">
+          <div className="card h-100  s-card">
             <img
               src="https://infuselife.com/wp-content/uploads/2023/01/energy-boost.png"
               className="card-img-top"
               alt="Energy Boost"
             />
             <div className="card-body">
-              <h5 className="card-title">Energy Boost IV</h5>
+              <h5 className="card-title">Energy Booster IV Drip Set</h5>
               <p className="card-text">Recharge your body with our energy-boosting IV.</p>
             </div>
           </div>
+          </Link>
         </div>
         <div className="col-md-4 mb-4">
-          <div className="card h-100 shadow-sm s-card">
+        <Link to="/immune-booster">
+          <div className="card h-100  s-card">
             <img
               src="https://infuselife.com/wp-content/uploads/2023/02/immune-boost.png"
               className="card-img-top"
               alt="Immunity Boost"
             />
             <div className="card-body">
-              <h5 className="card-title">Immunity Boost IV</h5>
+              <h5 className="card-title">Immune Booster Drip</h5>
               <p className="card-text">Strengthen your immune system naturally.</p>
             </div>
           </div>
+          </Link>
         </div>
         <div className="col-md-4 mb-4">
-          <div className="card h-100 shadow-sm s-card">
+        <Link to="/skin-glow">
+          <div className="card h-100  s-card">
             <img
               src="https://infuselife.com/wp-content/uploads/2023/02/beauty-glow.png"
               className="card-img-top"
               alt="Hydration Therapy"
             />
             <div className="card-body">
-              <h5 className="card-title">Hydration Therapy</h5>
+              <h5 className="card-title">(Beauty and Glow)Skin Glow</h5>
               <p className="card-text">Quick recovery for your mind and body.</p>
             </div>
           </div>
+        </Link>
+        </div>
+      </div>
+
+
+
+      <div className="row">
+        <div className="col-md-4 mb-4">
+        <Link to="/vitamin-c">
+          <div className="card h-100 s-card">
+            <img
+              src="https://infuselife.com/wp-content/uploads/2023/02/beauty-glow.png"
+              className="card-img-top"
+              alt="Energy Boost"
+            />
+            <div className="card-body">
+              <h5 className="card-title">(Beauty and Glow)Vitamin c</h5>
+              <p className="card-text">Recharge your body with our energy-boosting IV.</p>
+            </div>
+          </div>
+          </Link>
+        </div>
+        <div className="col-md-4 mb-4">
+        <Link to="/anti-aging">
+          <div className="card h-100 s-card">
+            <img
+              src="https://infuselife.com/wp-content/uploads/2023/02/beauty-glow.png"
+              className="card-img-top"
+              alt="Immunity Boost"
+            />
+            <div className="card-body">
+              <h5 className="card-title">(Beauty and Glow)Anti-Aging</h5>
+              <p className="card-text">Strengthen your immune system naturally.</p>
+            </div>
+          </div>
+        </Link>
+        </div>
+        <div className="col-md-4 mb-4">
+        <Link to="/w-loss">
+          <div className="card h-100 s-card">
+            <img
+              src="https://infuselife.com/wp-content/uploads/2023/10/weight-los.png"
+              className="card-img-top"
+              alt="Hydration Therapy"
+            />
+            <div className="card-body">
+              <h5 className="card-title">Weight Loss</h5>
+              <p className="card-text">Quick recovery for your mind and body.</p>
+            </div>
+          </div>
+        </Link>
         </div>
       </div>
 
