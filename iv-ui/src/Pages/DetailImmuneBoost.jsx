@@ -87,6 +87,11 @@ This drip is formulated based on the well known Myers cocktail, as it contains s
       Subject to consultation. Administered intravenously, diluted in 0.9% NaCl
       solution. Please ensure adequate hydration for a smooth procedure.
     </p>
+    <h5>Maintainance Plan:</h5>
+        <ul>
+            <li>We advise every 2-3 weeks</li>
+            {/* <li>Maintenance plan: 1 IV drip every 2 weeks ongoing.</li> */}
+        </ul>
     <p>
       <strong>Duration of procedure:</strong> 30-45 minutes.
       

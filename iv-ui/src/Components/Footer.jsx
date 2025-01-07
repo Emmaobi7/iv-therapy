@@ -11,8 +11,8 @@ const Footer = () => {
             <h5 className="text-uppercase">Adhore Beauty</h5>
             <p>
               Chase Way, Grays, UK<br />
-              Phone: +44 123 456 789<br />
-              Email: adhorebeauty@gmail.com
+              Phone: +44 7921836576<br />
+              
             </p>
           </div>
 
@@ -32,7 +32,7 @@ const Footer = () => {
             <h5 className="text-uppercase">Follow Us</h5>
             <div>
               <a href="#" className="text-light me-3"><i className="bi bi-facebook"></i></a>
-              <a href="#" className="text-light me-3"><i className="bi bi-twitter"></i></a>
+              {/* <a href="#" className="text-light me-3"><i className="bi bi-twitter"></i></a> */}
               <a href="https://www.instagram.com/adhorebeauty" target="blank" className="text-light me-3"><i className="bi bi-instagram"></i></a>
             </div>
           </div>

@@ -87,7 +87,7 @@ const BookingPage = () => {
   const handleDownloadPDF = () => {
     const link = document.createElement('a');
     link.href = '/Initial-IV-Therapy-Consent-Form.pdf'; // Path to the PDF in the public folder
-    link.download = 'adhorebeauty-IV-Therapy-Consent-Form.pdf'; // Name of the downloaded file
+    link.download = 'Adhorebeauty-IV-Therapy-Consent-Form.pdf'; // Name of the downloaded file
     link.click();
   };
 
