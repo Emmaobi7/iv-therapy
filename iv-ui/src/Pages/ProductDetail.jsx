@@ -20,7 +20,7 @@ const ProductDetail = () => {
         {/* Details Section */}
         <Col md={6}>
           <h1 className="mb-3">Skin Glowing Therapy</h1>
-          <p className="text-muted mb-4">Price: £99.99</p>
+          <p className="text-muted mb-4">Price: £50</p>
           <p>
             Experience the ultimate skin rejuvenation with our Skin Glowing
             Therapy. This treatment is designed to bring out your natural

@@ -20,7 +20,7 @@ const WeightLossDetail = () => {
         {/* Details Section */}
         <Col md={6}>
           <h1 className="mb-3">Weight Loss IV Drip</h1>
-          <p className="text-muted mb-4">Price: £99.99</p>
+          <p className="text-muted mb-4">Price: £50</p>
           <p>
           Achieve your weight loss goals with the Skinny IV Drip. This fast-acting, vitamin-packed infusion helps regulate sleep, mood, and appetite cycles while converting fat into energy. With benefits lasting up to a week, it’s the perfect companion for your fitness and wellness routine.
 

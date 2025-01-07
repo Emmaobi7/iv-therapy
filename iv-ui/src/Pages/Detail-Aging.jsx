@@ -20,7 +20,7 @@ const AgingDetail = () => {
         {/* Details Section */}
         <Col md={6}>
           <h1 className="mb-3">Skin Glowing Therapy</h1>
-          <p className="text-muted mb-4">Price: £99.99</p>
+          <p className="text-muted mb-4">Price: £50</p>
           <p>
           Turn back the clock with the Anti-Aging IV Drip, a powerful blend of antioxidants, vitamins, and minerals designed to rejuvenate your skin and combat signs of aging. This treatment enhances skin elasticity, reduces wrinkles, and promotes a youthful, radiant complexion. By nourishing your body from within, it helps repair cellular damage and supports long-term skin vitality.
 

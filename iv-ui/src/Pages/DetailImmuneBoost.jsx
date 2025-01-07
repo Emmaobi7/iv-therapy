@@ -20,7 +20,7 @@ const ImmuneBoostDetail = () => {
         {/* Details Section */}
         <Col md={6}>
           <h1 className="mb-3">Immune Booster Drip</h1>
-          <p className="text-muted mb-4">Price: £99.99</p>
+          <p className="text-muted mb-4">Price: £50</p>
           <p>
           Recharge your body with this Myers cocktail-based IV therapy, packed with
       essential vitamins and minerals. It boosts energy levels, enhances immune

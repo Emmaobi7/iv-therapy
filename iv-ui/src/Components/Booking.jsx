@@ -8,13 +8,13 @@ const BookingPage = () => {
  
   const navigate = useNavigate();
   const [services] = useState([
-    { id: 1, name: "IV Drip Therapy", category: "Health", price: 100 },
-    { id: 2, name: "Vitamin C Boost", category: "Health", price: 75 },
-    { id: 3, name: "Hydration Therapy", category: "Wellness", price: 90 },
-    { id: 4, name: "Energy Booster", category: "Wellness", price: 120 },
-    { id: 5, name: "Anti-Aging IV Drip", category: "Wellness", price: 45},
-    { id: 6, name: "Weight Loss IV Drip", category: "Health", price: 55},
-    { id: 7, name: "Immune IV Drip", category: "Health", price: 35},
+    { id: 1, name: "IV Drip Therapy", category: "Health", price: 50 },
+    { id: 2, name: "Vitamin C Boost", category: "Health", price: 50 },
+    { id: 3, name: "Hydration Therapy", category: "Wellness", price: 50 },
+    { id: 4, name: "Energy Booster", category: "Wellness", price: 50 },
+    { id: 5, name: "Anti-Aging IV Drip", category: "Wellness", price: 50},
+    { id: 6, name: "Weight Loss IV Drip", category: "Health", price: 50},
+    { id: 7, name: "Immune IV Drip", category: "Health", price: 50},
   ]);
 
   const [cart, setCart] = useState([]);

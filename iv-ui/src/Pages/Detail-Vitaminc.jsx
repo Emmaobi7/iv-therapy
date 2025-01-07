@@ -20,7 +20,7 @@ const VitamincDetail = () => {
         {/* Details Section */}
         <Col md={6}>
           <h1 className="mb-3">Vitamin-C IV Drip</h1>
-          <p className="text-muted mb-4">Price: £99.99</p>
+          <p className="text-muted mb-4">Price: £50</p>
           <p>
           Revitalize your skin and enhance your natural glow with the Vitamin C IV Drip. Packed with potent antioxidants, this treatment brightens skin, boosts collagen production, and reduces signs of aging. Ideal for achieving a radiant complexion and improving overall skin health, the Vitamin C IV Drip protects against environmental damage while promoting youthful, firm skin.
 
