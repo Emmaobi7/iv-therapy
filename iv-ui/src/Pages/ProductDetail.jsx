@@ -97,11 +97,11 @@ const ProductDetail = () => {
             than every fortnight.
             </p>
 
-            <h5>Treatment Plan:</h5>
-            <ul>
-            <li>1 IV drip per week for 12 weeks, then switch to a maintenance plan.</li>
-            <li>Maintenance plan: 1 IV drip every 2 weeks ongoing.</li>
-            </ul>
+            <h5>Maintainance Plan:</h5>
+        <ul>
+            <li>We advise every 2-3 weeks</li>
+            {/* <li>Maintenance plan: 1 IV drip every 2 weeks ongoing.</li> */}
+        </ul>
 
             <h5>Storage:</h5>
             <p>Store in a cool, dry place (1-30°C). Protect from light.</p>
@@ -109,7 +109,7 @@ const ProductDetail = () => {
             <h5>Volume:</h5>
             <p>250ml 0.9% NaCl bag.</p>
 
-            <h5>Set Contains:</h5>
+            {/* <h5>Set Contains:</h5>
             <ul>
             <li>Glutathione 600mg</li>
             <li>Thiotic Acid Liponex 300mg /12ml</li>
@@ -123,7 +123,7 @@ const ProductDetail = () => {
             <li>1x 10ml syringe</li>
             <li>1x tourniquet</li>
             <li>1x antiseptic wipe</li>
-            </ul>
+            </ul> */}
             <p><strong>*Gloves to be purchased separately.</strong></p>
 
             <p>

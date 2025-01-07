@@ -89,16 +89,16 @@ const AgingDetail = () => {
     <h5>Duration of Infusion:</h5>
     <p>40-50 minutes.</p>
 
-    <h5>Treatment Plan:</h5>
-    <ul>
-      <li>1 IV drip per week for 10-12 weeks.</li>
-      <li>Maintenance: 1 IV drip every 2-3 weeks.</li>
-    </ul>
+    <h5>Maintainance Plan:</h5>
+        <ul>
+            <li>We advise every 2-3 weeks</li>
+            {/* <li>Maintenance plan: 1 IV drip every 2 weeks ongoing.</li> */}
+        </ul>
 
     <h5>Storage:</h5>
     <p>Store in a cool, dry place (1-30°C). Protect from light and heat.</p>
 
-    <h5>Set Contains:</h5>
+    {/* <h5>Set Contains:</h5>
     <ul>
       <li>Glutathione 600mg</li>
       <li>Alpha-Lipoic Acid (Thiotic Acid) 300mg</li>
@@ -112,7 +112,7 @@ const AgingDetail = () => {
       <li>1x 10ml syringe</li>
       <li>1x tourniquet</li>
       <li>1x antiseptic wipe</li>
-    </ul>
+    </ul> */}
     <p><strong>*Gloves to be purchased separately.</strong></p>
 
     <p>

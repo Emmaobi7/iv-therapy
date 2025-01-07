@@ -37,74 +37,7 @@ const VitamincDetail = () => {
       </Row>
 
       {/* Description Section */}
-      <Row className="mt-5">
-    <Col>
-        <h3>Description</h3>
-        <p>
-            The Vitamin C IV Drip is formulated to restore your natural radiance and
-            promote overall skin health. Known for its powerful antioxidant properties, 
-            Vitamin C aids in collagen production, reduces pigmentation, and protects 
-            the skin from environmental damage.
-        </p>
-
-        <h5>Composition:</h5>
-        <ul>
-            <li>L-Ascorbic Acid 500mg/5ml</li>
-            <li>Magnesium Chloride</li>
-            <li>Sodium Bicarbonate</li>
-        </ul>
-
-        <h5>Main Indication:</h5>
-        <p>Brightens skin and enhances natural glow.</p>
-
-        <h5>Additional Benefits:</h5>
-        <ul>
-            <li>Improves skin texture and reduces wrinkles.</li>
-            <li>Fades dark spots and hyperpigmentation.</li>
-            <li>Boosts collagen production for firm, youthful skin.</li>
-            <li>Detoxifies and protects against free radicals.</li>
-        </ul>
-
-        <h5>Protocol:</h5>
-        <p>
-            Dilute Vitamin C with 0.9% NaCl solution. Add required ingredients to a 
-            250ml NaCl bag and administer.
-        </p>
-
-        <h5>Duration of Infusion:</h5>
-        <p>30-45 minutes.</p>
-
-        <h5>Treatment Plan:</h5>
-        <ul>
-            <li>1 IV drip per week for 8-12 weeks.</li>
-            <li>Maintenance: 1 IV drip every 2 weeks.</li>
-        </ul>
-
-        <h5>Storage:</h5>
-        <p>Store in a cool, dry place (1-30°C). Protect from light.</p>
-
-        <h5>Set Contains:</h5>
-        <ul>
-            <li>L-Ascorbic Acid 500mg/5ml</li>
-            <li>NaCl 250ml bag</li>
-            <li>IV infusion set - single chamber</li>
-            <li>1x IV butterfly</li>
-            <li>1x dressing</li>
-            <li>1x drawing needle</li>
-            <li>1x 10ml syringe</li>
-            <li>1x tourniquet</li>
-            <li>1x antiseptic wipe</li>
-        </ul>
-        <p><strong>*Gloves to be purchased separately.</strong></p>
-
-        <p>
-            <em>
-                All pictures shown are for illustration purposes only. Actual products 
-                may vary due to product enhancement.
-            </em>
-        </p>
-    </Col>
-</Row>
+      
 
 
 
@@ -153,11 +86,11 @@ const VitamincDetail = () => {
             than every fortnight.
             </p>
 
-            <h5>Treatment Plan:</h5>
-            <ul>
-            <li>1 IV drip per week for 12 weeks, then switch to a maintenance plan.</li>
-            <li>Maintenance plan: 1 IV drip every 2 weeks ongoing.</li>
-            </ul>
+            <h5>Maintainance Plan:</h5>
+        <ul>
+            <li>We advise every 2-3 weeks</li>
+            {/* <li>Maintenance plan: 1 IV drip every 2 weeks ongoing.</li> */}
+        </ul>
 
             <h5>Storage:</h5>
             <p>Store in a cool, dry place (1-30°C). Protect from light.</p>
@@ -165,7 +98,7 @@ const VitamincDetail = () => {
             <h5>Volume:</h5>
             <p>250ml 0.9% NaCl bag.</p>
 
-            <h5>Set Contains:</h5>
+            {/* <h5>Set Contains:</h5>
             <ul>
             <li>Glutathione 600mg</li>
             <li>Thiotic Acid Liponex 300mg /12ml</li>
@@ -179,7 +112,7 @@ const VitamincDetail = () => {
             <li>1x 10ml syringe</li>
             <li>1x tourniquet</li>
             <li>1x antiseptic wipe</li>
-            </ul>
+            </ul> */}
             <p><strong>*Gloves to be purchased separately.</strong></p>
 
             <p>

@@ -93,16 +93,17 @@ const WeightLossDetail = () => {
       Optional combination: Add Glutathione 600mg/1200mg as a separate IV push.
     </p>
 
-    <h5>Treatment Plan:</h5>
-    <ul>
-      <li>1 IV drip per week for 12 weeks, then switch to a maintenance plan</li>
-      <li>Maintenance Plan: 1 IV drip every 2 weeks ongoing</li>
-    </ul>
+    <h5>Maintainance Plan:</h5>
+        <ul>
+            <li>We advise every 2-3 weeks</li>
+            {/* <li>Maintenance plan: 1 IV drip every 2 weeks ongoing.</li> */}
+        </ul>
+
 
     <h5>Storage:</h5>
     <p>Store in a cool, dry place (1-30°C). Protect from light.</p>
 
-    <h5>Set Contains:</h5>
+    {/* <h5>Set Contains:</h5>
     <ul>
       <li>Liponex-300 Thioctic Acid Tromethaminne 475.4mg/12ml 1v</li>
       <li>Cartinex L-Carnitine 1g/5ml 1v</li>
@@ -115,7 +116,7 @@ const WeightLossDetail = () => {
       <li>1x 10ml syringe</li>
       <li>1x tourniquet</li>
       <li>1x antiseptic wipe</li>
-    </ul>
+    </ul> */}
     <p>
       <strong>*Gloves to be purchased separately.</strong>
     </p>
