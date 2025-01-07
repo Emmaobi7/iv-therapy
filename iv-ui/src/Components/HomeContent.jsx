@@ -129,7 +129,7 @@ const HomeContent = () => {
 
       {/* Section 3: Call-to-Action */}
       <div className="text-center mt-5">
-        <h2>Ready to Rejuvenate?</h2>
+        <h2 className="text-center mb-4 sec-heading ">Ready to Rejuvenate?</h2>
         <p>No waiting—choose your slot today and feel better instantly!</p>
         
         <Link to="/book" className="text-decoration-none">
