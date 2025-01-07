@@ -90,7 +90,7 @@ const HomeContent = () => {
             />
             <div className="card-body">
               <h5 className="card-title">(Beauty and Glow)Vitamin c</h5>
-              <p className="card-text">Recharge your body with our energy-boosting IV.</p>
+              <p className="card-text">Restore your natural radiance and promote overall skin health</p>
             </div>
           </div>
           </Link>
@@ -105,7 +105,7 @@ const HomeContent = () => {
             />
             <div className="card-body">
               <h5 className="card-title">(Beauty and Glow)Anti-Aging</h5>
-              <p className="card-text">Strengthen your immune system naturally.</p>
+              <p className="card-text">Reduce wrinkles and restore a youthful glow</p>
             </div>
           </div>
         </Link>
@@ -120,7 +120,7 @@ const HomeContent = () => {
             />
             <div className="card-body">
               <h5 className="card-title">Weight Loss</h5>
-              <p className="card-text">Quick recovery for your mind and body.</p>
+              <p className="card-text">Enhance your weight loss journey.</p>
             </div>
           </div>
         </Link>
