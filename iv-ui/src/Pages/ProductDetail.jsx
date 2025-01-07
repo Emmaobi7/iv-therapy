@@ -1,10 +1,12 @@
 import React from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import { Link } from "react-router-dom";
+import BackButton from "../Components/BackButton"
 
 const ProductDetail = () => {
   return (
     <Container className="py-5" style={{ maxWidth: "1200px" }}>
+      <BackButton/>
       <Row className="align-items-center">
         {/* Image Section */}
         <Col md={6} className="mb-4 mb-md-0">

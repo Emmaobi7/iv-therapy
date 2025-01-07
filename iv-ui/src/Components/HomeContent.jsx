@@ -89,7 +89,7 @@ const HomeContent = () => {
               alt="Energy Boost"
             />
             <div className="card-body">
-              <h5 className="card-title">(Beauty and Glow)Vitamin c</h5>
+              <h5 className="card-title">(Beauty and Glow)Vitamin C</h5>
               <p className="card-text">Restore your natural radiance and promote overall skin health</p>
             </div>
           </div>
