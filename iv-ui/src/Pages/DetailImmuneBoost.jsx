@@ -95,6 +95,15 @@ This drip is formulated based on the well known Myers cocktail, as it contains s
   </Col>
 </Row>
 
+<Link to="/book" className="text-decoration-none">
+         
+            <Button
+                className="btn btn-lg custom-button"
+            >
+            Book Now
+          </Button>
+          </Link>
+
 
 
     </Container>

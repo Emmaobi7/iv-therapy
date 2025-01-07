@@ -19,8 +19,8 @@ const EnergyBoostDetail = () => {
 
         {/* Details Section */}
         <Col md={6}>
-          <h1 className="mb-3">Energy Booster IV Drip Set</h1>
-          <p className="text-muted mb-4">Price: £99.99</p>
+          <h1 className="mb-3">Energy Booster IV Drip</h1>
+          <p className="text-muted mb-4">Price: £50</p>
           <p>
           Recharge your energy and combat fatigue with the Energy Booster IV Therapy. Packed with B vitamins, magnesium, and L-Carnitine, it revitalizes your body, enhances focus, and restores vitality.
 
@@ -49,7 +49,7 @@ const EnergyBoostDetail = () => {
 
 
       <Row className="mt-5">
-    <Col>
+        <Col>
         <h3>ENERGY</h3>
         <p>
             Contains a blend of our signature hydration drip and vitamins B, Magnesium, and L-Carnitine, 
@@ -98,10 +98,10 @@ const EnergyBoostDetail = () => {
         <h5>Combination Treatments/Add-ons:</h5>
         <p>Vitamin C 10g/20ml.</p>
 
-        <h5>Treatment Plan:</h5>
+        <h5>Maintainance Plan:</h5>
         <ul>
-            <li>1 IV drip per week for 12 weeks, then switch to a maintenance plan.</li>
-            <li>Maintenance plan: 1 IV drip every 2 weeks ongoing.</li>
+            <li>We advise every 2-3 weeks</li>
+            {/* <li>Maintenance plan: 1 IV drip every 2 weeks ongoing.</li> */}
         </ul>
 
         <h5>Storage:</h5>
@@ -110,7 +110,7 @@ const EnergyBoostDetail = () => {
         <h5>Volume:</h5>
         <p>250ml NaCl 0.9% bag.</p>
 
-        <h5>Set Contains:</h5>
+        {/* <h5>Set Contains:</h5>
         <ul>
             <li>B12 2ml</li>
             <li>Vitamin B Complex 2ml</li>
@@ -124,15 +124,22 @@ const EnergyBoostDetail = () => {
             <li>1x 10ml syringe</li>
             <li>1x tourniquet</li>
             <li>1x antiseptic wipe</li>
-        </ul>
+        </ul> */}
 
         <p>
             <em>All pictures shown are for illustration purposes only. Actual products may vary due to product enhancement.</em>
         </p>
-    </Col>
-</Row>
+        </Col>
+      </Row>
 
-
+      <Link to="/book" className="text-decoration-none">
+         
+            <Button
+                className="btn btn-lg custom-button"
+            >
+            Book Now
+          </Button>
+          </Link>
     </Container>
   );
 };

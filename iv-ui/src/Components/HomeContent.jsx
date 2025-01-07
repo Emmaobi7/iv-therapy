@@ -39,7 +39,7 @@ const HomeContent = () => {
               alt="Energy Boost"
             />
             <div className="card-body">
-              <h5 className="card-title">Energy Booster IV Drip Set</h5>
+              <h5 className="card-title">Energy Booster IV Drip</h5>
               <p className="card-text">Recharge your body with our energy-boosting IV.</p>
             </div>
           </div>

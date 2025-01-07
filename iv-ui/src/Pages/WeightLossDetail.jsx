@@ -128,6 +128,15 @@ const WeightLossDetail = () => {
   </Col>
 </Row>
 
+<Link to="/book" className="text-decoration-none">
+         
+            <Button
+                className="btn btn-lg custom-button"
+            >
+            Book Now
+          </Button>
+          </Link>
+
     </Container>
   );
 };
