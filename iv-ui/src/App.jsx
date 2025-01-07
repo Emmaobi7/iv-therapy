@@ -17,6 +17,7 @@ import ImmuneBoostDetail from './Pages/DetailImmuneBoost';
 import WeightLossDetail from './Pages/WeightLossDetail';
 import AgingDetail from './Pages/Detail-Aging';
 import  VitamincDetail from './Pages/Detail-Vitaminc';
+import ScrollToTop from './ScrollToTop';
 
 function App() {
 
@@ -34,6 +35,7 @@ function App() {
   return (
     <Router>
       <Header />
+      <ScrollToTop />
       {/* Routes to different pages */}
       <Routes>
         <Route path="/" element={<Home />} />
