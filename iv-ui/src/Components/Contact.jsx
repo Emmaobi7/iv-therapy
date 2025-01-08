@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Form, Button, Spinner, Alert } from "react-bootstrap";
+import WhatsAppSection from "./MessageUsWhatsaap";
 import axios from "axios";
 
 const MessageForm = () => {
@@ -100,6 +101,13 @@ const MessageForm = () => {
           {loading ? <Spinner as="span" animation="border" size="sm" /> : "Message Us"}
         </Button>
       </Form>
+
+      <div className="d-flex align-items-center my-4">
+        <hr className="flex-grow-1" />
+        <span className="mx-3 text-muted">or</span>
+        <hr className="flex-grow-1" />
+      </div>
+      <WhatsAppSection />
     </div>
   );
 };

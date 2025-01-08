@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="col-md-4 mb-4">
             <h5 className="text-uppercase">Adhore Beauty</h5>
             <p>
-              Chase Way, Grays, UK<br />
+              Thamesmead, South East London, UKs<br />
               Phone: +44 7921836576<br />
               
             </p>

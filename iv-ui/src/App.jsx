@@ -18,6 +18,7 @@ import WeightLossDetail from './Pages/WeightLossDetail';
 import AgingDetail from './Pages/Detail-Aging';
 import  VitamincDetail from './Pages/Detail-Vitaminc';
 import ScrollToTop from './ScrollToTop';
+import FloatingWhatsApp from './Components/FloatingWhatsapp';
 
 function App() {
 
@@ -61,6 +62,7 @@ function App() {
         />
 
       </Routes>
+      <FloatingWhatsApp />
       <Footer />
     </Router>
   );
