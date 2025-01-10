@@ -70,12 +70,12 @@ const VitamincDetail = () => {
             <li>Restores collagen and balances the body.</li>
             </ul>
 
-            <h5>Protocol:</h5>
+            {/* <h5>Protocol:</h5>
             <p>
             Dilute Glutathione 600mg with 10ml NaCl 0.9%. Add Glutathione, Vit C
             10g/20ml, and Thiotic Acid 300mg/12ml to a 250ml NaCl 0.9% bag and
             administer.
-            </p>
+            </p> */}
 
             <h5>Duration of Infusion:</h5>
             <p>40 minutes.</p>
@@ -92,8 +92,8 @@ const VitamincDetail = () => {
             {/* <li>Maintenance plan: 1 IV drip every 2 weeks ongoing.</li> */}
         </ul>
 
-            <h5>Storage:</h5>
-            <p>Store in a cool, dry place (1-30°C). Protect from light.</p>
+            {/* <h5>Storage:</h5>
+            <p>Store in a cool, dry place (1-30°C). Protect from light.</p> */}
 
             <h5>Volume:</h5>
             <p>250ml 0.9% NaCl bag.</p>
@@ -113,14 +113,14 @@ const VitamincDetail = () => {
             <li>1x tourniquet</li>
             <li>1x antiseptic wipe</li>
             </ul> */}
-            <p><strong>*Gloves to be purchased separately.</strong></p>
+            {/* <p><strong>*Gloves to be purchased separately.</strong></p>
 
             <p>
             <em>
                 All pictures shown are for illustration purposes only. Actual products
                 may vary due to product enhancement.
             </em>
-            </p>
+            </p> */}
         </Col>
     </Row>
 

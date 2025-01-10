@@ -78,11 +78,11 @@ const WeightLossDetail = () => {
       <li>Boosts muscle recovery and prevents fatigue</li>
     </ul>
 
-    <h5>Protocol:</h5>
+    {/* <h5>Protocol:</h5>
     <p>
       Add 1 vial of Liponex 12ml, 1 vial of L-Arginex, and 1 vial of Cartinex to a 250ml NaCl 0.9% bag. 
       No need for dilution.
-    </p>
+    </p> */}
 
     <h5>Duration of Infusion:</h5>
     <p>40 minutes</p>
@@ -100,8 +100,8 @@ const WeightLossDetail = () => {
         </ul>
 
 
-    <h5>Storage:</h5>
-    <p>Store in a cool, dry place (1-30°C). Protect from light.</p>
+    {/* <h5>Storage:</h5>
+    <p>Store in a cool, dry place (1-30°C). Protect from light.</p> */}
 
     {/* <h5>Set Contains:</h5>
     <ul>
@@ -117,7 +117,7 @@ const WeightLossDetail = () => {
       <li>1x tourniquet</li>
       <li>1x antiseptic wipe</li>
     </ul> */}
-    <p>
+    {/* <p>
       <strong>*Gloves to be purchased separately.</strong>
     </p>
     <p>
@@ -125,7 +125,7 @@ const WeightLossDetail = () => {
         All pictures shown are for illustration purposes only. Actual products may 
         vary due to product enhancement.
       </em>
-    </p>
+    </p> */}
   </Col>
 </Row>
 

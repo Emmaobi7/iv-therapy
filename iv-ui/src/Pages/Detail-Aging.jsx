@@ -80,11 +80,11 @@ const AgingDetail = () => {
       <li>Enhances cellular repair and detoxification.</li>
     </ul>
 
-    <h5>Protocol:</h5>
+    {/* <h5>Protocol:</h5>
     <p>
       Dilute the components with 0.9% NaCl solution. Add all ingredients to a 250ml 
       NaCl bag and administer through a single IV drip infusion.
-    </p>
+    </p> */}
 
     <h5>Duration of Infusion:</h5>
     <p>40-50 minutes.</p>
@@ -95,8 +95,8 @@ const AgingDetail = () => {
             {/* <li>Maintenance plan: 1 IV drip every 2 weeks ongoing.</li> */}
         </ul>
 
-    <h5>Storage:</h5>
-    <p>Store in a cool, dry place (1-30°C). Protect from light and heat.</p>
+    {/* <h5>Storage:</h5>
+    <p>Store in a cool, dry place (1-30°C). Protect from light and heat.</p> */}
 
     {/* <h5>Set Contains:</h5>
     <ul>
@@ -113,14 +113,14 @@ const AgingDetail = () => {
       <li>1x tourniquet</li>
       <li>1x antiseptic wipe</li>
     </ul> */}
-    <p><strong>*Gloves to be purchased separately.</strong></p>
+    {/* <p><strong>*Gloves to be purchased separately.</strong></p>
 
     <p>
       <em>
         All pictures shown are for illustration purposes only. Actual products may 
         vary due to product enhancement.
       </em>
-    </p>
+    </p> */}
   </Col>
 </Row>
 

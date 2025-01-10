@@ -84,10 +84,10 @@ const EnergyBoostDetail = () => {
             <li>L-Carnitine rapidly converts fat into energy.</li>
         </ul>
 
-        <h5>Protocol:</h5>
+        {/* <h5>Protocol:</h5>
         <p>
             Add B12, Vitamin B Complex, Magnesium, and L-Carnitine to a 250ml NaCl 0.9% bag.
-        </p>
+        </p> */}
 
         <h5>Duration of Infusion:</h5>
         <p>30-40 minutes.</p>
@@ -104,8 +104,8 @@ const EnergyBoostDetail = () => {
             {/* <li>Maintenance plan: 1 IV drip every 2 weeks ongoing.</li> */}
         </ul>
 
-        <h5>Storage:</h5>
-        <p>Store in a cool, dry place (1-30°C). Protect from light.</p>
+        {/* <h5>Storage:</h5>
+        <p>Store in a cool, dry place (1-30°C). Protect from light.</p> */}
 
         <h5>Volume:</h5>
         <p>250ml NaCl 0.9% bag.</p>
@@ -126,9 +126,9 @@ const EnergyBoostDetail = () => {
             <li>1x antiseptic wipe</li>
         </ul> */}
 
-        <p>
+        {/* <p>
             <em>All pictures shown are for illustration purposes only. Actual products may vary due to product enhancement.</em>
-        </p>
+        </p> */}
         </Col>
       </Row>
 
